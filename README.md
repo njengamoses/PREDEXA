@@ -10,4 +10,7 @@ A Web3-based earning platform that integrates wallet login, token earnings, with
 - Easy to customize and extend  
 
 ## Preview
-![Predexa UI](https://github.com/njengamoses/Predexa/blob/main/src/app/images/ui.png)
+<p align="center">
+  <img src="https://raw.githubusercontent.com/njengamoses/Predexa/main/src/app/images/ui.png" alt="Predexa UI" width="600"/>
+</p>
+

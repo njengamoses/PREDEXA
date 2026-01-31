@@ -1,6 +1,6 @@
 # Predexa
 
-A Web3-based earning platform that integrates wallet login, token earnings, withdrawals, and analytics through a modern, secure interface.
+
 
 ## Features
 - Connects with MetaMask for wallet authentication  
